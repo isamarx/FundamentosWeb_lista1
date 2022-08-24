@@ -1,1 +1,2 @@
-# FundamentosWeb_lista1
+# Fundamentos Web
+Exercicío Lista 1 
